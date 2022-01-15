@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "df45f442ee792066",
+    "type": "split",
+    "children": [
+      {
+        "id": "403a39ba25e1d966",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "person/bryan-serpas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8bea7dfb1736849",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfe40c158a1c6d86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c02352a58cbfaba8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c304dc1e283eb29d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57a7a0ba0a643b34",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd83b1eb40b24fa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3781fdd804b969b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "person/bryan-serpas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "403a39ba25e1d966",
+  "lastOpenFiles": [
+    "person/bryan-serpas.md",
+    "person/eric-wallace.md",
+    "venues/cotton-bowl.md",
+    "person/barbara-wallace.md",
+    "games/winter-classic-2020.md",
+    "Untitled.md",
+    "person/shannon-wallace.md",
+    "famous-erics.md",
+    "eric.md",
+    "about.md"
+  ]
+}
