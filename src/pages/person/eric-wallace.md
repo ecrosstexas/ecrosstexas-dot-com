@@ -22,7 +22,7 @@ others.
 
 ## Family
 
-I am married to [[shannon-wallace]] and we have two daughters, [[emma-wallace]] and [[molly-wallace]]. Recently, the Lord added a son, [[william-wallace]], to our family. Since 1996, we attend <a href="http://www.chaseoaks.org/">Chase Oaks Church</a> and lead the Rev 5:9 <a href="http://www.chaseoaks.org/get-connected/adults/lifegroup/">Life Group</a> with my wife. Shannon and I also both serve in <a href="http://www.chaseoaks.org/get-connected/children/">KidZone</a>.
+I am married to [[shannon-wallace|Shannon]] and we have two daughters, [[emma-wallace|Emma]] and [[molly-wallace|Molly]]. Recently, the Lord added a son, [[william-wallace|William]], to our family. Since 1996, we attend <a href="http://www.chaseoaks.org/">Chase Oaks Church</a> and lead the Rev 5:9 <a href="http://www.chaseoaks.org/get-connected/adults/lifegroup/">Life Group</a> with my wife. Shannon and I also both serve in <a href="http://www.chaseoaks.org/get-connected/children/">KidZone</a>.
 
 ## Career
 

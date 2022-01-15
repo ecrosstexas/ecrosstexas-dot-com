@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "403a39ba25e1d966",
+        "id": "8c516648ed1ca225",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "person/bryan-serpas.md",
+            "file": "person/eric-wallace.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "person/bryan-serpas.md",
+                "file": "person/eric-wallace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "403a39ba25e1d966",
+  "active": "8c516648ed1ca225",
   "lastOpenFiles": [
-    "person/bryan-serpas.md",
     "person/eric-wallace.md",
+    "person/shannon-wallace.md",
+    "game/winter-classic-2020.md",
+    "venue/cotton-bowl.md",
+    "person/bryan-serpas.md",
     "venues/cotton-bowl.md",
     "person/barbara-wallace.md",
     "games/winter-classic-2020.md",
     "Untitled.md",
-    "person/shannon-wallace.md",
-    "famous-erics.md",
-    "eric.md",
-    "about.md"
+    "famous-erics.md"
   ]
 }
